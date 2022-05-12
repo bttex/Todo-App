@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539068606717",
+    "project_id": "meutodolist-a6174",
+    "storage_bucket": "meutodolist-a6174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539068606717:android:4b8da30de3064e599ab694",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539068606717-13dar9kgdp3j1m0mmqhu007frvg8imlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlq9ka-4cjWOf-BlzWl0jhBZp0qppok-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539068606717-13dar9kgdp3j1m0mmqhu007frvg8imlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
